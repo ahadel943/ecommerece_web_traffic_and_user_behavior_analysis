@@ -65,6 +65,7 @@ After cleaning, preparing and understanding the data found the following notes
 | Average Session Duration | 1826 | NUMBER |
 
 ## Conclusions
+![kpis](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/1.kpis.jpg)
 1) key performance indicators (KPIs):
     * total_visits: 9,843,448 visits.
     * total_page_views: 20,484,697 views.
