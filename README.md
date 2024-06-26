@@ -83,20 +83,21 @@ After cleaning, preparing and understanding the data found the following notes
     * pages_per_visit: 2.08 pages.
 
 2) Based on the data provided for the Year-over-Year analysis, The following insights were found:
+    ![total_visits_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/2.total_visits_by_year.jpg)
     * **2019 to 2020:** There was a significant **increase** of approximately **9.52%** in total visits, This could be attributed to a variety of factors, including an increase in online activity due to the COVID-19 pandemic.
     * **2020 to 2021:** A **decrease** of about **-4.92%**, This might indicate a stabilization or a slight decline in web traffic as the initial surge in online activity due to the pandemic started to normalize.
     * **2021 to 2022:** A further slight **decrease** of about **-0.81%**, indicating a continued but small decline in visits.
     * **2022 to 2023:** A marginal **increase** of about **0.31%**, suggesting a possible stabilization of visits.
     * The notable **increase** in **2020** could be heavily influenced by the global COVID-19 pandemic, which drove more users online. This is a common trend seen across various ecommerce platforms during that period.
     * The slight **decline** in subsequent years (**2021 and 2022**) might suggest a normalization of online shopping behavior as the pandemic's impact lessened, and offline shopping resumed.
-    
+    ![total_page_views_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/3.total_page_views_by_year.jpg)
     * **2019 to 2020:** There was an **increase** of approximately **7.3%** in total page views. This aligns with the trend observed in total visits, likely influenced by the COVID-19 pandemic increasing online activity.
     * **2020 to 2021:** A slight **decrease** of about **-1.36%**, indicating a possible stabilization or slight reduction in user engagement.
     * **2021 to 2022:** A further **decrease** of approximately **-1.37%**.
     * **2022 to 2023:** Another **decrease** of about **-1.26%**, showing a consistent, though gradual, decline over the last three years.
     * The trends in **page views** closely mirror those in **total visits**, with a **peak** in **2020** followed by slight **declines** in subsequent years.
     * While the number of visits to the site has stabilized or slightly decreased, the number of pages viewed per visit has remained relatively consistent.
-
+    ![total_sessions_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/4.total_sessions_by_year.jpg)
     * **2019 to 2020:** There was a significant **increase** of approximately **9.89%** in total sessions. This aligns with the increase observed in visits and page views, likely due to the COVID-19 pandemic driving more online activity.
     * **2020 to 2021:** A **decrease** of about **-4.41%**, indicating a normalization or slight decline post the initial pandemic surge.
     * **2021 to 2022:** A slight **decrease** of approximately **-0.70%**, suggesting a continued stabilization.
@@ -176,7 +177,7 @@ After cleaning, preparing and understanding the data found the following notes
     * **Retention Challenges:** The drop in repeat visitors and repeat visitor rate in 2021 and 2023 suggests that user retention is a significant issue. Even if users spend more time on the site (as seen with average session duration), they are not necessarily returning, indicating a need for better re-engagement strategies.
     * **Engagement Correlation:** The slight improvements in 2021 in pages per session, pages per visit, and average session duration indicate that targeted efforts to improve content or user experience can positively impact user engagement.
 
-3) Based on the data provided for the Month-over-Month analysis here are the observations found:
+4) Based on the data provided for the Month-over-Month analysis here are the observations found:
     * In **2019**:
         * **February**: Significant drop (**-12.47%**), aligning with the low seasonality index.
         * **March**: Strong recovery (**35.11%**), reflecting a seasonal rebound.
@@ -394,7 +395,7 @@ After cleaning, preparing and understanding the data found the following notes
     * Low-Engagement Months: **March** (S.I. = **0.97**), **May** (S.I. = **0.97**), **October** (S.I. = **0.98**)
     * Most months have a seasonality index close to **1.00**, indicating relatively stable engagement levels.
 
-4) The following insights were interpretered based on our visits forecasting model:
+5) The following insights were interpretered based on our visits forecasting model:
     * By using a **Seasonal Trend Decomposition using Linear Regression (STDLR)** we were able to build a model which is reasonably accurate with a Mean Absolute Percentage Error (**MAPE**) of **5.93%**.
     * The forecasted visits for 2024<br>
     * | Month | Visits | MoM Grwoth |
