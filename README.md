@@ -104,56 +104,55 @@ After cleaning, preparing and understanding the data found the following notes
     * **2022 to 2023:** Sessions remained almost flat with a **negligible increase** of about **0.01%**, indicating a stable trend.
     * The trends in **sessions** closely mirror those in **total visits** and **page views**, with a peak in **2020** followed by slight declines in subsequent years.
     * While the overall user engagement (in terms of sessions) has seen a minor decline **post-2020**, it has stabilized in the recent years (**2022 and 2023**).
-
+    ![total_bounces_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/5.total_bounces_by_year.jpg)
     * **2019 to 2020:** There was a significant **increase** in total bounces, from **634,573** to **723,015** which a **13.94% increase**, indicating a rise in single-page sessions where users exited without further interaction, This increase could be attributed to various factors such as changes in site usability, content relevance, or user behavior shifts.
     * **2020 to 2021:** A **decrease** in total bounces was observed, dropping from **723,015** to **667,104** which a **decrease** by **-7.71%**. This suggests that efforts might have been made to improve user engagement or address issues that led to higher bounce rates in the previous year.
     * **2021 to 2022:** There was a slight **decrease** in total bounces from **667,104** to **663,082** representing a **-0.60% decrease**, indicating that the trend of reducing bounce rates continued.
     * **2022 to 2023:** A small **increase** in total bounces occurred, from **663,082** to **671,876** (**1.33% increase**). This suggests a potential stabilization or minor regression in addressing bounce rate issues.
-    
+    ![bounce_rate_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/6.bounce_rate_by_year.jpg)
     * **2019 to 2020:** There was an **increase** in bounce rate from **33.56%** to **34.91%**, indicating that more visitors left the site after viewing a single page in **2020** compared to **2019**. This increase might be due to various factors such as changes in website design, content quality, or external factors affecting user behavior.
     * **2020 to 2021:** The bounce rate decreased from **34.91%** to **33.88%**, suggesting improvements in user engagement or site optimization efforts. This reduction is positive as it indicates that fewer visitors are leaving the site without further interaction.
     * **2021 to 2022:** The bounce rate increased slightly from **33.88%** to **33.95%**, which is a minor change. This could indicate stabilization or a slight regression in retaining visitors on the site.
     * **2022 to 2023:** The bounce rate increased again from **33.95%** to **34.29%**, This increase suggests a potential challenge in maintaining user engagement or addressing issues that could lead to higher bounce rates.
-    
+    ![total_exits_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/7.total_exits_by_year.jpg)
     * **2019 to 2020:** There was an **increase** in total exits from **755,513** to **804,919** which represents a **6.54%**, indicating more users left the site in **2020** compared to **2019**, This increase could be due to various reasons such as changes in user behavior, site content, or external factors like the pandemic which altered online browsing patterns.
     * **2020 to 2021:** The total exits decreased with **-3.48%** to **776,901**, suggesting that efforts to retain users on the site were somewhat successful, though the total exits remained higher than in 2019.
     * **2021 to 2022:** A slight **decrease** of **-0.31%** totaling **774,464** exits , indicating stabilization in user exit behavior.
     * **2022 to 2023:** The total exits remained nearly flat with a very small increase to **775,081** which represents a **0.08%**, suggesting a stable exit pattern.
-
+    ![exit_rate_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/8.exit_rate_by_year.jpg)
     * **2019 to 2020:** There was a slight **decrease** in exit rate from **19.20%** to **19.06%**. This suggests a small improvement in user retention, as a slightly lower percentage of visitors exited the site after viewing any page.
     * **2020 to 2021:** The exit rate further **decreased** to **18.66%**. This indicates a more substantial improvement in retaining visitors, potentially due to improvements in user experience, content quality, or navigation.
     * **2021 to 2022**: The exit rate **increased** slightly to **18.85%**. While still lower than **2019**, this slight increase may suggest minor issues in user experience or content that led to more exits.
     * **2022 to 2023:** The exit rate **increased** again to **19.11%**, approaching the 2019 level. This suggests a regression in user retention, indicating potential areas for improvement to reduce exits.
-    
+    ![avg_session_duration_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/9.avg_session_duration_by_year.jpg)
     * **2019 to 2020:** There was a slight **decrease** in average session duration from **756.68** seconds to **748.42** seconds. This indicates that users spent slightly less time per session in **2020** compared to **2019**.
     * **2020 to 2021:** The average session duration **increased** to **753.30** seconds. This suggests that user engagement improved, with users spending more time per session in **2021**.
     * **2021 to 2022:** There was another slight **decrease** to **747.06** seconds. This indicates a drop in user engagement in terms of session duration.
     * **2022 to 2023:** The average session duration **increased** again to **754.36** seconds. This suggests an improvement in user engagement, with users spending more time on the site per session.
-    
+    ![pages_per_session_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/10.pages_per_session_by_year.jpg)
     * **2019 to 2020:** There was a slight **decrease** in pages per session from **2.09** to **2.04**. This indicates that users viewed slightly fewer pages per session in **2020** compared to **2019**.
     * **2020 to 2021:** The pages per session **increased** to **2.11**. This suggests an improvement in user engagement, with users viewing more pages per session in **2021**.
     * **2021 to 2022:** There was a minor **decrease** back to **2.09**, indicating a slight drop in the number of pages viewed per session.
     * **2022 to 2023:** The pages per session **decreased** slightly again to **2.06**. This suggests a continuing trend of minor fluctuations in user engagement.
-    
+    ![pages_per_visit_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/11.pages_per_visit_by_year.jpg)
     * **2019 to 2020:** There was a slight **decrease** in pages per visit from **2.08** to **2.04**. This indicates that users viewed fewer pages per visit in **2020** compared to **2019**, which might suggest changes in user behavior, content relevance, or site navigation.
     * **2020 to 2021:** The pages per visit **increased** to **2.11**, showing an improvement in user engagement with users viewing more pages per visit in **2021**.
     * **2021 to 2022:** There was a slight **decrease** to **2.10** pages per visit, indicating a minor drop in user engagement.
     * **2022 to 2023:** The pages per visit **decreased** again to **2.07**, continuing the trend of minor fluctuations in user engagement.
-
+    ![repeated_visitors_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/12.repeated_visitors_by_year.jpg)
     * **2019 to 2020:** There was a slight **decrease** in repeated visitors from **11** to **10**, indicating a small drop in the number of users returning to the site.
     * **2020 to 2021:** The number of repeated visitors **decreased** significantly from **10** to **6**. This substantial drop suggests that fewer users found reasons to return to the site in **2021**.
     * **2021 to 2022:** The number of repeated visitors **increased** to **10**, indicating a recovery in user retention and suggesting improvements in user engagement or satisfaction.
     * **2022 to 2023:** The number of repeated visitors **decreased** again to **5**, which is the lowest in the observed period. This suggests significant challenges in retaining users and encouraging return visits.
-    
+    ![repeat_visitor_rate_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/13.repeat_visitor_rate_by_year.jpg)
     * **2019 to 2020:** The repeat visitor rate **decreased** from **3.01%** to **2.73%**, indicating a slight drop in the proportion of visitors returning to the site.
     * **2020 to 2021:** There was a significant **decrease** to **1.64%**, suggesting a notable decline in user retention and satisfaction.
     * **2021 to 2022:** The repeat visitor rate **increased** to **2.74%**, showing a recovery in the proportion of returning visitors, possibly due to improved engagement strategies or better user experience.
     * **2022 to 2023:** The rate **decreased** again to **1.37%**, indicating substantial challenges in retaining visitors and encouraging them to return.
-    
+    ![total_visitors_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/14.total_visitors_by_year.jpg)
     * The total number of visitors remains remarkably stable across the years, with a negligible change (**only one additional visitor in 2020**). This indicates that the website attracts a consistent number of visitors each year.
-    
+    ![unique_visitors_by_year](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/15.unique_visitors_by_year.jpg)
     * There is a gradual **increase** in the number of unique visitors from **2019** to **2023**. While the increase is modest, it suggests a positive trend in attracting new unique visitors to the website each year.
-
     * Traffic Metrics (Visits, Page Views, and Sessions):
         * **2020:** All three metrics show a peak in 2020, likely influenced by increased online activity due to the pandemic.
         * **2021-2023:** There's a stabilization or slight decline in all metrics, suggesting normalization post-pandemic.
@@ -171,7 +170,6 @@ After cleaning, preparing and understanding the data found the following notes
         * **2021:** Significant drop in both repeated visitors and repeat visitor rate, suggesting a major decline in user retention.
         * **2022:** Temporary recovery in repeat visitors and repeat visitor rate, indicating successful re-engagement efforts.
         * **2023:** Significant decline again, highlighting ongoing challenges in retaining users.
-
     * **Traffic and Engagement:** The peak in traffic metrics (visits, page views, sessions) in 2020 did not correlate with improved engagement metrics (pages per session, pages per visit, average session duration), suggesting that increased traffic did not necessarily lead to deeper engagement.
     * **Bounce and Exit Rates:** The increase in bounce rate and total bounces in 2020 indicates that despite higher traffic, users were not finding the content engaging or relevant. This trend is partially improved in 2021, but bounces and exits remain a concern.
     * **Retention Challenges:** The drop in repeat visitors and repeat visitor rate in 2021 and 2023 suggests that user retention is a significant issue. Even if users spend more time on the site (as seen with average session duration), they are not necessarily returning, indicating a need for better re-engagement strategies.
