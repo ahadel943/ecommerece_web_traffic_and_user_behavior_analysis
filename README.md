@@ -403,26 +403,39 @@ After cleaning, preparing and understanding the data found the following notes
         * High Average Session Durations: ***December*** (**784.98**) and **March** (**765.06**) had the highest session durations.
         * Low Average Session Durations: **October** (**728.10**) and **July** (**735.42**) had the lowest session durations.
         * Seasonality Impact: **March** and **December** align with their high S.I., while **October** and **July** are unexpectedly low despite the average S.I.
+    ![2022_avg_session_duartion_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/61.2022_avg_session_duartion_by_month.jpg)
     * In **2022**:
         * High Average Session Durations: **March** (**785.22**) and **August** (**772.87**) had the highest session durations.
         * Low Average Session Durations: **June** (**724.81**) and **September** (**714.20**) had the lowest session durations.
         * Seasonality Impact: **March** and **August** align with their high S.I., while **June** and **September** align with their low S.I.
+    ![2023_avg_session_duartion_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/62.2023_avg_session_duartion_by_month.jpg)
     * In **2023**:
         * High Average Session Durations: **February** (**775.36**) and **September** (**774.18**) had the highest session durations.
         * Low Average Session Durations: **August** (**719.51**) and **June** (**729.81**) had the lowest session durations.
         * Seasonality Impact: **February** and **September** align with their high S.I., while **August** and **June** align with their low S.I.
+    ![avg_session_duration_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/63.avg_session_duration_seasonality_index_by_month.jpg)
     * Average session duration varies month by month, with some months showing consistent increases or decreases across multiple years.
     * **February** and **March** generally show higher average session durations, while **June** often has lower average session durations.
     * **February** (S.I. **1.01**) and **March** (S.I. **1.02**) tend to have higher session durations, indicating better user engagement during these months.
     * **June** (S.I. **0.97**) typically has lower session durations, suggesting a period of lower user engagement.
-    
+    ![2019_pages_per_session_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/64.2019_pages_per_session_by_month.jpg)
+    ![2020_pages_per_session_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/65.2020_pages_per_session_by_month.jpg)
+    ![2021_pages_per_session_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/66.2021_pages_per_session_by_month.jpg)
+    ![2022_pages_per_session_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/67.2022_pages_per_session_by_month.jpg)
+    ![2023_pages_per_session_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/68.2023_pages_per_session_by_month.jpg)
+    ![pages_per_session_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/69.pages_per_session_seasonality_index_by_month.jpg)
     * The number of pages per session shows variability across different years. For example, the pages per session in **January** varied from **1.81** in **2023** to **2.36** in **2019**.
     * There is no clear increasing or decreasing trend over the years, indicating fluctuating user engagement.
     * Certain months show consistently higher engagement (more pages per session), such as **August** and **July**, which often have values above **2.0**.
     * Other months like **March** and **May** show relatively lower engagement in some years.
     * High-Engagement Months: **August** (S.I. = **1.05**), **July** (S.I. = **1.02**), **December** (S.I. = **1.03**)
     * Low-Engagement Months: **March** (S.I. = **0.96**), **May** (S.I. = **0.97**), **October** (S.I. = **0.97**)
-    
+    ![2019_pages_per_visit_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/70.2019_pages_per_visit_by_month.jpg)
+    ![2020_pages_per_visit_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/71.2020_pages_per_visit_by_month.jpg)
+    ![2021_pages_per_visit_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/72.2021_pages_per_visit_by_month.jpg)
+    ![2022_pages_per_visit_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/73.2022_pages_per_visit_by_month.jpg)
+    ![2023_pages_per_visit_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/74.2023_pages_per_visit_by_month.jpg)
+    ![pages_per_visit_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/75.pages_per_visit_seasonality_index_by_month.jpg)
     * The number of pages per visit shows some variability across different years. For instance, the pages per visit in January varied from **1.82** in **2023** to **2.19** in **2022**.
     * Overall, there seems to be no clear upward or downward trend over the years.
     * Certain months consistently show higher engagement (more pages per visit), such as **August** and **December**, often having values above **2.0**.
