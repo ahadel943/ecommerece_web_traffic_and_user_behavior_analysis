@@ -176,103 +176,124 @@ After cleaning, preparing and understanding the data found the following notes
     * **Engagement Correlation:** The slight improvements in 2021 in pages per session, pages per visit, and average session duration indicate that targeted efforts to improve content or user experience can positively impact user engagement.
 
 4) Based on the data provided for the Month-over-Month analysis here are the observations found:
+   ![2019_total_visits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/16.2019_total_visits_by_month.jpg)
     * In **2019**:
         * **February**: Significant drop (**-12.47%**), aligning with the low seasonality index.
         * **March**: Strong recovery (**35.11%**), reflecting a seasonal rebound.
         * **August**: Highest MoM growth (**28.67%**), matching its high seasonality index.
+    ![2020_total_visits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/17.2020_total_visits_by_month.jpg)
     * In **2020**:
         * **February**: Decline (**-3.19%**), but less severe than in **2019**.
         * **March**: Positive growth (**17.60%**), following the seasonal trend.
         * **April**: Sharp decline (**-16.13%**), indicating potential post-March drop-off.
         * **November**: Significant decline (**-13.20%**), could be due to pre-holiday season slowdown.
+    ![2021_total_visits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/18.2021_total_visits_by_month.jpg)
     * In **2021**:
         * **February** and **March**: Continuous decline, significant in **March** (**-17.34%**).
         * **April**: Recovery (**19.19%**), consistent with post-March rebound.
         * **June**: Strong positive growth (**12.46%**), higher than average.
+    ![2022_total_visits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/19.2022_total_visits_by_month.jpg)
     * In **2022**:
         * **January** to **February**: Major decline (**-23.98%**), sharper than previous years.
         * **August**: Strong positive growth (**19.37%**), reflecting seasonal peak.
         * **October**: Significant growth (**16.23%**), high seasonality impact.
+    ![2023_total_visits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/20.2023_total_visits_by_month.jpg)
     * In **2023**:
         * **February**: Sharp decline (**-27.68%**), largest drop observed, aligning with low seasonality.
         * **March**: Strongest recovery (**38.37%**), indicating a robust seasonal effect.
         * **May** to **June**: Positive growth, but declining slightly by December.
+    ![visits_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/21.visits_seasonality_index_by_month.jpg)
     * There is a noticeable volatility in MoM growth across all years, with significant fluctuations in certain months. For example, **February** generally shows negative growth, while **March** often sees a rebound.
     * **August** frequently exhibits positive MoM growth, reflecting a seasonal increase in visits during this month.
     * **August** (S.I. **1.09**) and **January** (S.I. **1.05**) are months with higher-than-average visits, while **February** (S.I. **0.88**) consistently shows lower-than-average visits.
     * **February** shows a consistent decline in visits across multiple years. This aligns with its low seasonality index of **0.88**.
     * **March** consistently rebounds from **February’s** decline, as indicated by positive MoM growth in multiple years and a seasonality index of **1.03**.
-    
+    ![2019_page_views_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/22.2019_page_views_by_month.jpg)
     * In **2019**:
         * High Page Views: **February** (**420,238**) and **November** (**339,533**) had the highest page views.
         * Low Page Views: **April** (**261,649**) and **September** (**293,256**) had the lowest page views.
         * Seasonality Impact: **February** and **November** are in line with their high S.I., while **April** and **September** match their low S.I.
+    ![2020_page_views_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/23.2020_page_views_by_month.jpg)
     * In **2020**:
         * High Page Views: **August** (**397,048**) and **November** (**384,747**) had the highest page views.
         * Low Page Views: **October** (**307,196**) and **April** (**371,143**) had the lowest page views.
         * Seasonality Impact: **August** and **November** align with high S.I., but **October** is unexpectedly low despite an average S.I.
+    ![2021_page_views_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/24.2021_page_views_by_month.jpg)
     * In **2021**:
         * High Page Views: **February** (**398,881**) and **July** (**403,251**) had the highest page views.
         * Low Page Views: **August** (**279,274**) and **December** (**322,225**) had the lowest page views.
         * Seasonality Impact: **February** and **July** align with their S.I., but ***August*** is lower than expected.
+    ![2022_page_views_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/25.2022_page_views_by_month.jpg)
     * In **2022**:
         * High Page Views: **May** (**413,352**) and **January** (**370,351**) had the highest page views.
         * Low Page Views: **April** (**278,399**) and **June** (**293,757**) had the lowest page views.
         * Seasonality Impact: **May** aligns with a high S.I., while **April** is low as expected.
+    ![2023_page_views_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/26.2023_page_views_by_month.jpg)
     * In **2023**:
         * High Page Views: **February** (**396,295**) and **November** (**359,664**) had the highest page views.
         * Low Page Views: **April** (**245,938**) and **May** (**303,000**) had the lowest page views.
         * Seasonality Impact: **February** and **November** are consistent with their high S.I., while **April** matches its low S.I.
+    ![page_views_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/27.page_views_seasonality_index_by_month.jpg)
     * Page views fluctuate month by month, with some months showing consistent increases or decreases across multiple years.
     * **February** and **March** generally show higher page views, while **April** tends to have lower page views.
     * **February** (S.I. **1.14**) and **November** (S.I. **1.04**) are months with higher-than-average page views, indicating seasonal peaks.
     * **April** (S.I. **0.89**) and **September** (S.I. **0.95**) consistently have lower page views, indicating potential seasonal dips.
-    
+    ![2019_sessions_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/28.2019_sessions_by_month.jpg)
     * In **2019**:
         * High Sessions: **March** (**173,168**), **August** (**194,008**), and **December** (**171,995**) had the highest sessions.
         * Low Sessions: **February** (**128,556**) and **July** (**147,710**) had the lowest sessions.
         * Seasonality Impact: **August** aligns with its high S.I., and **February** aligns with its low S.I.
+    ![2020_sessions_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/29.2020_sessions_by_month.jpg)
     * In **2020**:
         * High Sessions: **March** (**200,757**), **October** (**190,650**), and **January** (**172,140**) had the highest sessions.
         * Low Sessions: **December** (**149,342**) and **May** (**158,296**) had the lowest sessions.
         * Seasonality Impact: **March** and **October** align with their high S.I., while **December** is unexpectedly low despite an average S.I.
+    ![2021_sessions_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/30.2021_sessions_by_month.jpg)
     * In **2021**:
         * High Sessions: **January** (**186,718**) and **June** (**190,675**) had the highest sessions.
         * Low Sessions: **February** (**159,729**) and **September** (**145,994**) had the lowest sessions.
         * Seasonality Impact: **January** aligns with its high S.I., and **February** aligns with its low S.I.
+    ![2022_sessions_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/31.2022_sessions_by_month.jpg)
     * In **2022**:
         * High Sessions: **January** (**194,455**) and **October** (**180,216**) had the highest sessions.
         * Low Sessions: **February** (**141,345**) and **July** (**144,992**) had the lowest sessions.
         * Seasonality Impact: **January** and **October** align with their high S.I., while **February** aligns with its low S.I.
+    ![2023_sessions_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/32.2023_sessions_by_month.jpg)
     * In **2023**:
         * High Sessions: **November** (**180,984**) and **June** (**176,242**) had the highest sessions.
         * Low Sessions: **February** (**119,489**) and **September** (**159,482**) had the lowest sessions.
         * Seasonality Impact: **November** and **June** align with their high S.I., while **February** aligns with its low S.I.
+    ![sessions_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/33.sessions_seasonality_index_by_month.jpg)
     * Sessions fluctuate month by month, with some months showing consistent increases or decreases across multiple years.
     * **August**, **October**, and **January** generally show higher sessions, while **February** consistently has lower sessions.
     * **August** (S.I. **1.09**) and **October** (S.I. **1.07**) have higher-than-average sessions, indicating seasonal peaks.
     * **February** (S.I. **0.88**) consistently has lower sessions, indicating a potential seasonal dip.
-    
+    ![2019_bounces_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/34.2019_bounces_by_month.jpg)
     * In **2019**:
         * High Bounces: **March** (**60,136**), **August** (**64,302**), and **December** (**59,468**) had the highest bounces.
         * Low Bounces: **February** (**40,230**) and **April** (**49,266**) had the lowest bounces.
         * Seasonality Impact: **August** and **October** align with their high S.I., and **February** aligns with its low S.I.
+    ![2020_bounces_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/35.2020_bounces_by_month.jpg)
     * In **2020**:
         * High Bounces: **March** (**67,428**), **October** (**67,896**), and **January** (**62,024**) had the highest bounces.
         * Low Bounces: **December** (**49,903**) and **May** (**56,107**) had the lowest bounces.
         * Seasonality Impact: **March** and **October** align with their high S.I., while **December** is unexpectedly low despite an average S.I.
+    ![2021_bounces_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/36.2021_bounces_by_month.jpg)
     * In **2021**:
         * High Bounces: **January** (**60,346**) and **June** (**63,758**) had the highest bounces.
         * Low Bounces: **March** (**42,767**) and **September** (**47,947**) had the lowest bounces.
         * Seasonality Impact: **January** aligns with its high S.I., and **February** aligns with its low S.I.
+    ![2022_bounces_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/37.2022_bounces_by_month.jpg)
     * In **2022**:
         * High Bounces: **January** (**67,890**) and **November** (**57,506**) had the highest bounces.
         * Low Bounces: February (**50,636**) and **September** (**49,520**) had the lowest bounces.
         * Seasonality Impact: **January** and **November** align with their high S.I., while **February** aligns with its low S.I.
+    ![2023_bounces_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/38.2023_bounces_by_month.jpg)
     * In **2023**:
         * High Bounces: **June** (**65,015**) and **October** (**61,942**) had the highest bounces.
         * Low Bounces: **February** (**42,779**) and **September** (**52,428**) had the lowest bounces.
         * Seasonality Impact: **June** and **October** align with their high S.I., while **February** aligns with its low S.I.
+    ![bounces_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/39.bounces_seasonality_index_by_month.jpg)
     * Bounces fluctuate month by month, with some months showing consistent increases or decreases across multiple years.
     * **February** consistently shows lower bounces, while **August** and **October** generally have higher bounces.
     * **August** (S.I. **1.08**) and **October** (S.I. **1.08**) have higher-than-average bounces, indicating seasonal peaks.
@@ -393,7 +414,7 @@ After cleaning, preparing and understanding the data found the following notes
     * Low-Engagement Months: **March** (S.I. = **0.97**), **May** (S.I. = **0.97**), **October** (S.I. = **0.98**)
     * Most months have a seasonality index close to **1.00**, indicating relatively stable engagement levels.
 
-5) The following insights were interpretered based on our visits forecasting model:
+6) The following insights were interpretered based on our visits forecasting model:
     * By using a **Seasonal Trend Decomposition using Linear Regression (STDLR)** we were able to build a model which is reasonably accurate with a Mean Absolute Percentage Error (**MAPE**) of **5.93%**.
     * The forecasted visits for 2024<br>
     * | Month | Visits | MoM Grwoth |
