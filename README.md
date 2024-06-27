@@ -388,15 +388,17 @@ After cleaning, preparing and understanding the data found the following notes
     * **September** and **October** generally show higher exit rates, while **January** and **December** tend to have lower exit rates.
     * **September** (S.I. **1.06**) and **October** (S.I. **1.01**) tend to have higher exit rates, indicating possible seasonal challenges.
     * **January** (S.I. **0.97**) and **December** (S.I. **0.97**) typically have lower exit rates, suggesting better user engagement during these months.
-
+    ![2019_avg_session_duartion_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/58.2019_avg_session_duartion_by_month.jpg)
     * In **2019**:
         * High Average Session Durations: **February** (**780.74**) and **August** (**772.68**) had the highest session durations.
         * Low Average Session Durations: **June** (**708.25**) and **November** (**743.80**) had the lowest session durations.
         * Seasonality Impact: **February** and **August** align with their high S.I., while **June** aligns with its low S.I.
+    ![2020_avg_session_duartion_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/59.2020_avg_session_duartion_by_month.jpg)
     * In **2020**:
         * High Average Session Durations: **February** (**774.34**) and **July** (**769.41**) had the highest session durations.
         * Low Average Session Durations: **April** (**733.96**) and **December** (**728.20**) had the lowest session durations.
         * Seasonality Impact: **February** aligns with its high S.I., while **December** is unexpectedly low despite the average S.I.
+    ![2021_avg_session_duartion_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/60.2021_avg_session_duartion_by_month.jpg)
     * In **2021**:
         * High Average Session Durations: ***December*** (**784.98**) and **March** (**765.06**) had the highest session durations.
         * Low Average Session Durations: **October** (**728.10**) and **July** (**735.42**) had the lowest session durations.
