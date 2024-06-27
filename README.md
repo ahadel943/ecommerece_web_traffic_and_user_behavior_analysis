@@ -12,12 +12,12 @@ This project focuses on analyzing web traffic and user behavior on an e-commerce
 ## Business Questions and Tasks
 
 1) **Comparative Analysis**
-  * **Year-over-Year (YoY) Comparison:** Compare metrics from the same periods in different years to assess growth or decline.
-  * **Month-over-Month (MoM) Comparison:** Analyze monthly changes to understand short-term trends.
+    * **Year-over-Year (YoY) Comparison:** Compare metrics from the same periods in different years to assess growth or decline.
+    * **Month-over-Month (MoM) Comparison:** Analyze monthly changes to understand short-term trends.
 
 2) **Trend and Time Series Analysis**
-  * **Seasonal Trends:** Identify patterns over different times of the year (Year, Month) to understand high and low traffic periods.
-  * **Time Series Forecasting:** Use models like ARIMA, SARIMA, or Prophet to predict future web traffic metrics.
+    * **Seasonal Trends:** Identify patterns over different times of the year (Year, Month) to understand high and low traffic periods.
+    * **Time Series Forecasting:** Use models like ARIMA, SARIMA, or Prophet to predict future web traffic metrics.
 
 ## Data cleaning and preparatrion
 
