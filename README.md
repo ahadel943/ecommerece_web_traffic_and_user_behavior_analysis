@@ -298,77 +298,92 @@ After cleaning, preparing and understanding the data found the following notes
     * **February** consistently shows lower bounces, while **August** and **October** generally have higher bounces.
     * **August** (S.I. **1.08**) and **October** (S.I. **1.08**) have higher-than-average bounces, indicating seasonal peaks.
     * **February** (S.I. **0.87**) consistently has lower bounces, indicating a potential seasonal dip.
-
+    ![2019_bounce_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/40.2019_bounce_rate_by_month.jpg)
     * In **2019**:
         * High Bounce Rates: **March** (**34.40%**), **July** (**34.53%**), and **October** (**34.91%**) had the highest bounce rates.
         * Low Bounce Rates: **January** (**30.87%**) and **February** (**31.09%**) had the lowest bounce rates.
         * Seasonality Impact: The high bounce rates in **March**, **July**, and **October** are consistent with their seasonality indices, which are close to or above 1.
+    ![2020_bounce_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/41.2020_bounce_rate_by_month.jpg)
     * In **2020**:
         * High Bounce Rates: **January** (**35.32%**), **July** (**37.40%**), and **October** (**36.91%**) had the highest bounce rates.
         * Low Bounce Rates: **February** (**33.49%**) and **December** (**32.98%**) had the lowest bounce rates.
         * Seasonality Impact: **July** and **October** align with their high S.I., while **December** aligns with its low S.I.
+    ![2021_bounce_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/42.2021_bounce_rate_by_month.jpg)
     * In **2021**:
         * High Bounce Rates: **April** (**36.74%**) and **November** (**35.46%**) had the highest bounce rates.
         * Low Bounce Rates: **March** (**32.23%**) and **September** (**31.05%**) had the lowest bounce rates.
         * Seasonality Impact: **April** and **November** align with their high S.I., while **March** and **September** align with their low S.I.
+    ![2022_bounce_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/43.2022_bounce_rate_by_month.jpg)
     * In **2022**:
         * High Bounce Rates: **May** (**37.05%**) and **November** (**36.13%**) had the highest bounce rates.
         * Low Bounce Rates: **March** (**32.55%**) and **October** (**31.81%**) had the lowest bounce rates.
         * Seasonality Impact: **May** and **November** align with their high S.I., while **March** and **October** are unexpectedly lower despite high S.I.
+    ![2023_bounce_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/44.2023_bounce_rate_by_month.jpg)
     * In **2023**:
         * High Bounce Rates: **June** (**36.73%**) and **October** (**36.79%**) had the highest bounce rates.
         * Low Bounce Rates: **July** (**31.83%**) and **November** (**32.29%**) had the lowest bounce rates.
         * Seasonality Impact: **June** and **October** align with their high S.I., while **July** and **November** are unexpectedly lower despite high S.I.
+    ![bounce_ratte_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/45.bounce_ratte_seasonality_index_by_month.jpg)
     * Bounce rates vary month by month, with some months showing consistent increases or decreases across multiple years.
     * There are noticeable fluctuations, with **July** and **October** generally having higher bounce rates and **March** and **September** typically having lower bounce rates.
     * **May** (S.I. **1.03**) and **October** (S.I. **1.03**) tend to have higher bounce rates, indicating possible seasonal challenges.
     * **December** (S.I. **0.97**) typically has a lower bounce rate, suggesting higher user engagement during this month.
-    
+    ![2019_exits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/46.2019_exits_by_month.jpg)
     * In **2019**:
         * High Exits: **August** (**77,748**), **October** (**69,162**), and **December** (**67,773**) had the highest exits.
         * Low Exits: **June** (**48,995**) and **February** (**53,511**) had the lowest exits.
         * Seasonality Impact: **August** and **October** align with their high S.I., and **February** aligns with its low S.I.
+    ![2020_exits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/47.2020_exits_by_month.jpg)
     * In **2020**:
-        - High Exits: **October** (**82,739**), **March** (**74,629**), and **February** (**75,372**) had the highest exits.
-        - Low Exits: **November** (**57,532**) and **December** (**60,731**) had the lowest exits.
-        - Seasonality Impact: **October** aligns with its high S.I., while **February** is unexpectedly high despite a low S.I.
+        * High Exits: **October** (**82,739**), **March** (**74,629**), and **February** (**75,372**) had the highest exits.
+        * Low Exits: **November** (**57,532**) and **December** (**60,731**) had the lowest exits.
+        * Seasonality Impact: **October** aligns with its high S.I., while **February** is unexpectedly high despite a low S.I.
+    ![2021_exits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/48.2021_exits_by_month.jpg)
     * In **2021**:
-        - High Exits: **August** (**73,410**) and **July** (**70,499**) had the highest exits.
-        - Low Exits: **March** (**52,980**) and **February** (**60,548**) had the lowest exits.
-        - Seasonality Impact: **August** aligns with its high S.I., and **February** aligns with its low S.I.
+        * High Exits: **August** (**73,410**) and **July** (**70,499**) had the highest exits.
+        * Low Exits: **March** (**52,980**) and **February** (**60,548**) had the lowest exits.
+        * Seasonality Impact: **August** aligns with its high S.I., and **February** aligns with its low S.I.
+    ![2022_exits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/49.2022_exits_by_month.jpg)
     * In **2022**:
-        - High Exits: **January** (**71,899**) and **October** (**65,389**) had the highest exits.
-         - Low Exits: **February** (**52,209**) and **July** (**54,095**) had the lowest exits.
-        - Seasonality Impact: **January** and **October** align with their high S.I., while **February** aligns with its low S.I.
+        * High Exits: **January** (**71,899**) and **October** (**65,389**) had the highest exits.
+        * Low Exits: **February** (**52,209**) and **July** (**54,095**) had the lowest exits.
+        * Seasonality Impact: **January** and **October** align with their high S.I., while **February** aligns with its low S.I.
+    ![2023_exits_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/50.2023_exits_by_month.jpg)
     * In **2023**:
-        - High Exits: **July** (**76,831**) and **August** (**75,079**) had the highest exits.
-        - Low Exits: **February** (**44,680**) and **January** (**55,599**) had the lowest exits.
-        - Seasonality Impact: **July** and **August** align with their high S.I., while **February** aligns with its low S.I.
+        * High Exits: **July** (**76,831**) and **August** (**75,079**) had the highest exits.
+        * Low Exits: **February** (**44,680**) and **January** (**55,599**) had the lowest exits.
+        * Seasonality Impact: **July** and **August** align with their high S.I., while **February** aligns with its low S.I.
+     ![exits_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/51.exits_seasonality_index_by_month.jpg)
     * Exits vary month by month, with some months showing consistent increases or decreases across multiple years.
     * **August** generally shows the highest exits, while **February** consistently has lower exits.
     * **August** (S.I. **1.12**) and **October** (S.I. **1.05**) tend to have higher exits, indicating possible seasonal challenges.
     * **February** (S.I. **0.88**) typically has lower exits, suggesting a period of lower user exits.
-    
+    ![2019_exit_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/52.2019_exit_rate_by_month.jpg)
     * In **2019**:
         * High Exit Rates: **May** (**21.47%**), **February** (**20.45%**), and **November** (**20.72%**) had the highest exit rates.
         * Low Exit Rates: **June** (**16.26%**) and **December** (**17.88%**) had the lowest exit rates.
         * Seasonality Impact: **May** and **November** align with their high S.I., and **January** and **December** align with their low S.I.
+    ![2020_exit_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/53.2020_exit_rate_by_month.jpg)
     * In **2020**:
         * High Exit Rates: **October** (**21.50%**), **June** (**21.01%**), and **February** (**20.31%**) had the highest exit rates.
         * Low Exit Rates: **May** (**16.39%**) and **July** (**16.41%**) had the lowest exit rates.
         * Seasonality Impact: **October** aligns with its high S.I., while **May** and July are unexpectedly low despite the high S.I.
+    ![2021_exit_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/54.2021_exit_rate_by_month.jpg)
     * In **2021**:
         * High Exit Rates: **December** (**20.96%**) and **September** (**19.89%**) had the highest exit rates.
         * Low Exit Rates: **February** (**16.95%**) and **June** (**17.82%**) had the lowest exit rates.
         * Seasonality Impact: **September** and **December** align with their high S.I., while **February** is unexpectedly low despite a higher S.I.
+    ![2022_exit_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/55.2022_exit_rate_by_month.jpg)
     * In **2022**:
         * High Exit Rates: **June** (**20.82%**) and **September** (**20.15%**) had the highest exit rates.
         * Low Exit Rates: **January** (**17.39%**) and **December** (**17.04%**) had the lowest exit rates.
         * Seasonality Impact: **June** and **September** align with their high S.I., while **January** and **December** align with their low S.I.
+    ![2023_exit_rate_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/56.2023_exit_rate_by_month.jpg)
     * In **2023**:
         * High Exit Rates: **September** (**21.43%**) and **July** (**20.56%**) had the highest exit rates.
         * Low Exit Rates: **October** (**17.44%**) and **February** (**18.17%**) had the lowest exit rates.
         * Seasonality Impact: **September** and **July** align with their high S.I., while **October** is unexpectedly low despite a higher S.I.
+    ![exit_rate_seasonality_index_by_month](https://github.com/ahadel943/ecommerece_web_traffic_and_user_behavior_analysis/blob/main/charts/57.exit_rate_seasonality_index_by_month.jpg)
     * Exit rates vary month by month, with some months showing consistent increases or decreases across multiple years.
     * **September** and **October** generally show higher exit rates, while **January** and **December** tend to have lower exit rates.
     * **September** (S.I. **1.06**) and **October** (S.I. **1.01**) tend to have higher exit rates, indicating possible seasonal challenges.
